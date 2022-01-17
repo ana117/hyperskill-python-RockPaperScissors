@@ -5,6 +5,8 @@ which can be played against the computer.
 
 Link to the project [Rock-Paper-Scissors](https://hyperskill.org/projects/78).
 
+Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
+
 ## Demo
 
 ## Stages
